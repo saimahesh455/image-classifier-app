@@ -28,7 +28,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown("<div class='main-title'>🐾 Image Classifier </div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>🐾 Animal Classifier App</div>", unsafe_allow_html=True)
 
 # -------------------- SESSION STATE --------------------
 if "datasets" not in st.session_state:
